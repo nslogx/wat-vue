@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwat_vue"]=self["webpackChunkwat_vue"]||[]).push([[443],{26343:(e,s,t)=>{t.r(s),t.d(s,{default:()=>_});var n=function(){var e=this,s=e._self._c;e._self._setupProxy;return s("div",{staticClass:"login-container"},[e._v("关于")])},l=[],u=t(62900),a=t(19203);let c=class extends a.w3{};c=(0,u.gn)([(0,a.wA)({name:"About",components:{}})],c);const o=c,r=o;var i=t(1001),v=(0,i.Z)(r,n,l,!1,null,null,null);const _=v.exports}}]);
+//# sourceMappingURL=about-legacy.576e7f79.js.map
